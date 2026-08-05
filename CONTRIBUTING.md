@@ -39,6 +39,4 @@ Make sure your editor and terminal that run the tests are set to `Powershell 7` 
 `Git's Unix tools for Windows` installed. This is because some tests require you to be able to run `sh` and other
 unix commands.
 
-#### License
 
-By contributing to this repository, you agree that your contributions will be licensed under its MIT license.
