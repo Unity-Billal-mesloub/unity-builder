@@ -1,7 +1,5 @@
 # Unity - Builder
 
-(Not affiliated with Unity Technologies)
-
 GitHub Action to
 [build Unity projects](https://github.com/Unity-Billal-mesloub/unity-builder/edit/main/README.md)
 for different platforms.
